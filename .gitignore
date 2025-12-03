@@ -1,0 +1,11 @@
+# Ignorar entornos virtuales (Asegúrate que coincida con tus carpetas)
+venv/
+venv_312/
+book_scanner_api/python_backend/venv_312/
+book_scanner_api/python_backend/venv/
+
+# Otros
+__pycache__/
+*.pyc
+.idea/
+build/
